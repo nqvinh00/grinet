@@ -1,0 +1,7 @@
+/grr
+/dist
+.envrc
+.vscode
+*~
+*.orig
+*.swp
